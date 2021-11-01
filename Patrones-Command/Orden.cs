@@ -6,6 +6,6 @@ namespace Patrones_Command
 {
     public interface Orden
     {
-        void ejecutar();
+        void Ejecutar();
     }
 }

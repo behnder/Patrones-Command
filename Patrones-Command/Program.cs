@@ -6,7 +6,16 @@ namespace Patrones_Command
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Accion accionABC = new Accion();
+
+            ComprarAccion comprarAccion = new ComprarAccion(accionABC);
+            VenderAccion venderAccion = new VenderAccion(accionABC);
+
+            Broker broker = new Broker();
+            broker.TomarOrden(comprarAccion);
+            broker.TomarOrden(venderAccion);
+
+            broker.HacerOrden();
         }
     }
 }

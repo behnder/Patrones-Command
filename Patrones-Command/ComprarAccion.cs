@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Patrones_Command
 {
-    class ComprarAccion
+    class ComprarAccion : Orden
     {
         private Accion AccionABC;
 
@@ -17,5 +17,7 @@ namespace Patrones_Command
         {
             AccionABC.comprar();
         }
+
+       
     }
 }
