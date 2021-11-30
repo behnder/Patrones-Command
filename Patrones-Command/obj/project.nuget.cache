@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TTBPYL3PLaMmGFKtig4SYeO+jtEv3+aaM3aGBBKerZ1togVbAfBh1LHv4HvHfBiUqIN9tqiaqV8tWir9/1ptHw==",
+  "dgSpecHash": "dmOsy2ARFl5LX2fhTXZFYfdkYBdq08M5spQwGHbClWFFZdzBPIAONSwMvBZ0qd/NlY9jPBz+GPftfB/oGOWLtw==",
   "success": true,
-  "projectFilePath": "E:\\unity\\Patrones-Command\\Patrones-Command\\Patrones-Command.csproj",
+  "projectFilePath": "E:\\unity\\quark\\Patrones\\Patrones-Command\\Patrones-Command\\Patrones-Command.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

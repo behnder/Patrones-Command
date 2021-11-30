@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\unity\\Patrones-Command\\Patrones-Command\\Patrones-Command.csproj",
+      "projectUniqueName": "E:\\unity\\quark\\Patrones\\Patrones-Command\\Patrones-Command\\Patrones-Command.csproj",
       "projectName": "Patrones-Command",
-      "projectPath": "E:\\unity\\Patrones-Command\\Patrones-Command\\Patrones-Command.csproj",
+      "projectPath": "E:\\unity\\quark\\Patrones\\Patrones-Command\\Patrones-Command\\Patrones-Command.csproj",
       "packagesPath": "C:\\Users\\Corvo\\.nuget\\packages\\",
-      "outputPath": "E:\\unity\\Patrones-Command\\Patrones-Command\\obj\\",
+      "outputPath": "E:\\unity\\quark\\Patrones\\Patrones-Command\\Patrones-Command\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Corvo\\AppData\\Roaming\\NuGet\\NuGet.Config",
